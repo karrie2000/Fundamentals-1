@@ -1,0 +1,15 @@
+C:\Users\Karrington\WOS-projects\C#\Homework\Week 5\Fundamentals 1\Fundamentals-1\bin\Debug\net6.0\Fundamentals-1.exe
+C:\Users\Karrington\WOS-projects\C#\Homework\Week 5\Fundamentals 1\Fundamentals-1\bin\Debug\net6.0\Fundamentals-1.deps.json
+C:\Users\Karrington\WOS-projects\C#\Homework\Week 5\Fundamentals 1\Fundamentals-1\bin\Debug\net6.0\Fundamentals-1.runtimeconfig.json
+C:\Users\Karrington\WOS-projects\C#\Homework\Week 5\Fundamentals 1\Fundamentals-1\bin\Debug\net6.0\Fundamentals-1.dll
+C:\Users\Karrington\WOS-projects\C#\Homework\Week 5\Fundamentals 1\Fundamentals-1\bin\Debug\net6.0\Fundamentals-1.pdb
+C:\Users\Karrington\WOS-projects\C#\Homework\Week 5\Fundamentals 1\Fundamentals-1\obj\Debug\net6.0\Fundamentals-1.csproj.AssemblyReference.cache
+C:\Users\Karrington\WOS-projects\C#\Homework\Week 5\Fundamentals 1\Fundamentals-1\obj\Debug\net6.0\Fundamentals-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karrington\WOS-projects\C#\Homework\Week 5\Fundamentals 1\Fundamentals-1\obj\Debug\net6.0\Fundamentals-1.AssemblyInfoInputs.cache
+C:\Users\Karrington\WOS-projects\C#\Homework\Week 5\Fundamentals 1\Fundamentals-1\obj\Debug\net6.0\Fundamentals-1.AssemblyInfo.cs
+C:\Users\Karrington\WOS-projects\C#\Homework\Week 5\Fundamentals 1\Fundamentals-1\obj\Debug\net6.0\Fundamentals-1.csproj.CoreCompileInputs.cache
+C:\Users\Karrington\WOS-projects\C#\Homework\Week 5\Fundamentals 1\Fundamentals-1\obj\Debug\net6.0\Fundamentals-1.dll
+C:\Users\Karrington\WOS-projects\C#\Homework\Week 5\Fundamentals 1\Fundamentals-1\obj\Debug\net6.0\refint\Fundamentals-1.dll
+C:\Users\Karrington\WOS-projects\C#\Homework\Week 5\Fundamentals 1\Fundamentals-1\obj\Debug\net6.0\Fundamentals-1.pdb
+C:\Users\Karrington\WOS-projects\C#\Homework\Week 5\Fundamentals 1\Fundamentals-1\obj\Debug\net6.0\Fundamentals-1.genruntimeconfig.cache
+C:\Users\Karrington\WOS-projects\C#\Homework\Week 5\Fundamentals 1\Fundamentals-1\obj\Debug\net6.0\ref\Fundamentals-1.dll
